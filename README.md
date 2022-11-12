@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indrajit Sonavane</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animation" width="300px">
+
+<img align="right" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="animation" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajitsonavane&label=Profile%20views&color=0e75b6&style=flat" alt="indrajitsonavane" /> </p>
 
