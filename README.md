@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indrajit Sonavane</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animation" width="400px">
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animation" width="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajitsonavane&label=Profile%20views&color=0e75b6&style=flat" alt="indrajitsonavane" /> </p>
 
